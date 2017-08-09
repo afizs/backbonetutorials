@@ -1,3 +1,5 @@
 markdown: redcarpet
 pygments: true
 permalink: /:title
+
+theme: jekyll-theme-cayman
